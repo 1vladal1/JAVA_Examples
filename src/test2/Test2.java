@@ -1,5 +1,5 @@
 package test2;
-import test1.*;
+import shapes.*;
 
 /**
  * Created by vlad on 13.02.14.

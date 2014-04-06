@@ -1,5 +1,6 @@
 package tests;
 
+
 /**
  * Created by vlad
  */
@@ -29,5 +30,6 @@ public class DefaultValues {
         System.out.println("double: " + primitives.aDouble);
         byte bb = (byte)(100*100);
         System.out.println(100*100 % 128 + " " + bb);
+
     }
 }
